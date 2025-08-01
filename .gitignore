@@ -1,0 +1,75 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+.gradle/
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.DS_Store
+
+# Android Studio project files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/codeStyles/
+.idea/dictionaries/
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/modules.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/deploymentTargetDropDown.xml
+
+# Gradle files
+*.iml
+.gradle/
+gradle-wrapper.jar
+
+# Keystore files
+*.jks
+*.keystore
+
+# Local Configuration
+local.properties
+
+# AVD snapshot files
+.android/avd/*.avd/*.img
+.android/avd/*.avd/*.ini
+.android/avd/*.avd/snapshots/
+
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# macOS Finder files
+.DS_Store
+
+# ReSharper files
+_ReSharper*/
+*.dotSettings
+
+# Kotlin specific
+.idea/kotlinc.xml
+
+
+# Other temporary files
+temp/
+tmp/

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ARPlacementApp</string>
+    <string name="tap_on_the_ground_to_place_the_drill_marker">Tap on the ground to place the drill marker</string>
+</resources>
